@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
-
+import loginForm from `./components/loginFrom/loginPage`;
+import "./components/loginFoam";
 function App() {
   return (
-    <div >
-     
+    <div>
+      <p>Hello Word</p>
     </div>
   );
 }
