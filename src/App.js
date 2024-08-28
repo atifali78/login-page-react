@@ -1,9 +1,10 @@
-import loginForm from `./components/loginFrom/loginPage`;
-import "./components/loginFoam";
+import LoginPage from `./components/loginFoam/loginPage`;
+
 function App() {
   return (
     <div>
       <p>Hello Word</p>
+      <LoginPage />
     </div>
   );
 }
